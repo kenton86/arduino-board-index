@@ -1070,8 +1070,8 @@
           "help": {
             "online": "https://forums.adafruit.com"
           },
-          "url": "http://adafruit.github.io/arduino-board-index/boards/adafruit-avr-1.4.8.tar.bz2",
-          "checksum": "SHA-256:447a72a86ce24664bd5912f407b2e5457a8274c29d2fbf34c830f3517609a811",
+          "url": "http://kenton86.github.io/arduino-board-index/boards/adafruit-avr-1.4.8.tar.bz2",
+          "checksum": "SHA-256:717ffeff993aae75fdca844dc18ba995d870e41d5b1df827751ef824346a0537",
           "version": "1.4.8",
           "architecture": "avr",
           "archiveFileName": "adafruit-avr-1.4.8.tar.bz2",
